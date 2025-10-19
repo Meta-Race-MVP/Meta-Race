@@ -19,11 +19,19 @@ Join the community and dive into a world of endless possibilities.
 
 # Getting Started
 - OS:<br/>
-  Mac, Linux, Windows<br/>
+  `Mac`, `Linux`, `Windows`<br/>
     \*This project works best on macOS. If you encounter any problems while using other operating systems, please contact the administrator.
 - Prerequirements:<br/>
-  Node v20.x.x, Google Chrome
+  `Node v20.x.x`, Google Chrome
 - Installing Dependecies:<br/>
-  npm install 
+  ```bash
+   npm install 
+  ```
+  Or, if `npm` command is not working:
+  ```bash
+   yarn install 
+  ```
 -  Running project:<br/>
-  npm start
+   ```bash
+   npm start
+   ```
