@@ -22,7 +22,7 @@ Join the community and dive into a world of endless possibilities.
   `Mac`, `Linux`, `Windows`<br/>
     \*This project works best on macOS. If you encounter any problems while using other operating systems, please contact the administrator.
 - Prerequirements:<br/>
-  `Node v20.x.x`, Google Chrome
+  `Node v22.x.x` or above
 - Installing Dependecies:<br/>
   ```bash
    npm install 
@@ -32,6 +32,6 @@ Join the community and dive into a world of endless possibilities.
    yarn install 
   ```
 -  Running project:<br/>
-   ```bash
-   npm start
-   ```
+    ```bash
+    npm start
+    ```
